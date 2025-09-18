@@ -6,6 +6,11 @@ Mi piace trasformare idee in applicazioni concrete e sperimentare con nuove solu
 ---
 
 ### 🔗 I miei progetti
+
+- 📺 [Higher or Lower: Twitch Edition](https://higherorlowertwitch.it/)  
+  Un gioco basato sul format *Higher or Lower*, dove devi indovinare quale streamer Twitch ha **più spettatori** o **più followers**.  
+  Include login, sistema di punti e classifica globale.
+
 - 🎮 [Valorant Analyzer](https://valorantanalyzer.vaccie.it/)  
   Analizza statistiche e prestazioni su Valorant, fornendo anche consigli utili per migliorare il gameplay.  
 
